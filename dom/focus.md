@@ -1,5 +1,4 @@
 ---
-author: 이규철 <leegyu4dev@gmail.com>
 date: 2024-07-12
 ---
 
