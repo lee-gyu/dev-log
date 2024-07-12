@@ -1,0 +1,10 @@
+{
+    "markdownlint.config": {
+        "ul-indent": {
+            "indent": 4
+        }
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    }
+}
